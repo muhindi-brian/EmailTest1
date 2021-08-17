@@ -1,5 +1,5 @@
-uname = 'brayanmuhindimwangi@gmail.com'
-pwd = 'Sicafew74855!'
+uname = '#' #EmailID
+pwd = '#' #emailpassword
 
 imap = 'imap.gmail.com'
 smtp = 'smtp.gmail.com'
