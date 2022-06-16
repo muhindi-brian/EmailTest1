@@ -3,8 +3,8 @@ import smtplib
 
 imap_server = 'imap.gmail.com'
 smtp_server = 'smtp.gmail.com'
-username = 'brayanmuhindimwangi@gmail.com'
-password = 'Sicafew74855!'
+username = '#'
+password = '#'
 
 imapobj = imapclient.IMAPClient(imap_server, ssl=True)
 imapobj.login(username, password)
